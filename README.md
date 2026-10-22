@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shishir-mishra-2b7103250/">LinkedIn</a> ·
-  <a href="https://teampsmpv.com/">TEAM-PSMPV</a> ·
+  <a href="https://founder.teampsmpv.com/">Portfolio</a> ·
   <a href="mailto:shishirmishra423@gmail.com">Email</a>
 </p>
 
@@ -71,4 +71,4 @@ I’m interested in AI/ML engineering, applied computer vision, and product-focu
 
 - Email: [shishirmishra423@gmail.com](mailto:shishirmishra423@gmail.com)
 - LinkedIn: [shishir-mishra](https://www.linkedin.com/in/shishir-mishra-2b7103250/)
-- Website: [teampsmpv.com](https://teampsmpv.com/)
+- Website: [founder.teampsmpv.com](https://founder.teampsmpv.com/)
